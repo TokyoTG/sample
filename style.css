@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    line-height: normal;
+}
+
+body {
+    background: #193048;
+    font-size: 1.4rem;
+}
+
+.margin {
+    height: 5%;
+}
+
+.container {
+    padding: 0;
+}
+
+.main-container {
+    width: 420px;
+    background: white;
+    margin: auto;
+}
